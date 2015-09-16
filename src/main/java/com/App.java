@@ -17,6 +17,7 @@ import java.util.*;
  * *********************************************************************
  * 'сложные задачи с коллекциями в java 7' >> 10 советов по многопоточному программированию на Java
  *
+ * {@link https://github.com/Home-Java8/MyMap/tree/master/src/com/luxoft}
  * {@link http://www.java2s.com/Code/Jar/o/Downloadorgapachecommonslangjar.htm}
  */
 public class App {
