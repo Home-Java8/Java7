@@ -45,6 +45,8 @@
 * [http://www.quizful.net/post/Using-Map-in-Jave](http://www.quizful.net/post/Using-Map-in-Jave)
 * [http://info.javarush.ru/translation/2014/06/14/Как-правильно-делать-сортировку-в-Java.html](http://info.javarush.ru/translation/2014/06/14/Как-правильно-делать-сортировку-в-Java.html)
 
+* `Design patterns (плейлист) `: [http://javaoutsource.blogspot.com/2013/07/design-patterns.html](http://javaoutsource.blogspot.com/2013/07/design-patterns.html)
+
 * [http://java67.blogspot.com/2013/04/example-of-overriding-equals-hashcode-compareTo-java-method.html](http://java67.blogspot.com/2013/04/example-of-overriding-equals-hashcode-compareTo-java-method.html)
 * [http://tproger.ru/translations/10-java-multithread-practices/](http://tproger.ru/translations/10-java-multithread-practices/)
 * [http://info.javarush.ru/translation/2014/06/26/Топ-10-вопросов-о-коллекциях-в-Java.html](http://info.javarush.ru/translation/2014/06/26/Топ-10-вопросов-о-коллекциях-в-Java.html)
