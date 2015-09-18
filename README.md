@@ -37,3 +37,19 @@
 
 * [http://ru.stackoverflow.com/questions/304483/Как-в-java-в-map-вывести-значение-key-по-найденному-значению-value](http://ru.stackoverflow.com/questions/304483/Как-в-java-в-map-вывести-значение-key-по-найденному-значению-value)
 * [http://howtodoinjava.com/2013/05/02/how-to-design-a-good-key-for-hashmap/](http://howtodoinjava.com/2013/05/02/how-to-design-a-good-key-for-hashmap/)
+
+
+#java hashmap контракт equals hashcode
+* [http://javaoutsource.blogspot.com/2012/11/hashcode.html](http://javaoutsource.blogspot.com/2012/11/hashcode.html)
+* [http://howtodoinjava.com/2013/05/02/how-to-design-a-good-key-for-hashmap/](http://howtodoinjava.com/2013/05/02/how-to-design-a-good-key-for-hashmap/)
+* [http://www.quizful.net/post/Using-Map-in-Jave](http://www.quizful.net/post/Using-Map-in-Jave)
+* [http://info.javarush.ru/translation/2014/06/14/Как-правильно-делать-сортировку-в-Java.html](http://info.javarush.ru/translation/2014/06/14/Как-правильно-делать-сортировку-в-Java.html)
+
+* [http://java67.blogspot.com/2013/04/example-of-overriding-equals-hashcode-compareTo-java-method.html](http://java67.blogspot.com/2013/04/example-of-overriding-equals-hashcode-compareTo-java-method.html)
+* [http://tproger.ru/translations/10-java-multithread-practices/](http://tproger.ru/translations/10-java-multithread-practices/)
+* [http://info.javarush.ru/translation/2014/06/26/Топ-10-вопросов-о-коллекциях-в-Java.html](http://info.javarush.ru/translation/2014/06/26/Топ-10-вопросов-о-коллекциях-в-Java.html)
+
+* [http://ru.stackoverflow.com/questions/304483/Как-в-java-в-map-вывести-значение-key-по-найденному-значению-value](http://ru.stackoverflow.com/questions/304483/Как-в-java-в-map-вывести-значение-key-по-найденному-значению-value)
+* [http://examples.javacodegeeks.com/java-basics/java-map-example/](http://examples.javacodegeeks.com/java-basics/java-map-example/)
+* [http://stackoverflow.com/questions/10702259/hashmap-with-override-equals-and-hashcode-not-working](http://stackoverflow.com/questions/10702259/hashmap-with-override-equals-and-hashcode-not-working)
+* [http://stackoverflow.com/questions/6493605/how-does-a-java-hashmap-handle-different-objects-with-the-same-hash-code](http://stackoverflow.com/questions/6493605/how-does-a-java-hashmap-handle-different-objects-with-the-same-hash-code)
