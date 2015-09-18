@@ -61,7 +61,7 @@ public class HashMapStructure {
         countryCapitalMap.put(russia,"Moscow");
 
         Iterator<Country> countryCapitalIter = countryCapitalMap.keySet().iterator(); // установите
-        while(countryCapitalIter.hasNext()){ // debug-точку на этой строке (30)
+        while(countryCapitalIter.hasNext()){ // debug-точку на этой строке (64)
             Country countryObj = countryCapitalIter.next();
             String     capital = countryCapitalMap.get( countryObj );
 
