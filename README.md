@@ -34,6 +34,18 @@
 12. `Про Java - Design patterns`: [http://javaoutsource.blogspot.com/2013/07/design-patterns.html](http://javaoutsource.blogspot.com/2013/07/design-patterns.html)
 
 
+13. `Java справочник в AppStore` [http://danilov-jee.blogspot.com/2013/10/java.html](http://danilov-jee.blogspot.com/2013/10/java.html)
+14. `Java Core. Вопросы к собеседованию, ч. 1` [http://info.javarush.ru/translation/2014/02/12/Java-Core-Вопросы-к-собеседованию-ч-1.html](http://info.javarush.ru/translation/2014/02/12/Java-Core-Вопросы-к-собеседованию-ч-1.html)
+
+sql вопросы на собеседовании
+============================
+* `Вопросы по MS SQL Server`: [http://www.fulcrumweb.com.ua/archives/1158](http://www.fulcrumweb.com.ua/archives/1158)
+* `Некоторые распространенные вопросы на собеседовании по базам данных`: [http://job-interview.ru/questions/database/](http://job-interview.ru/questions/database/)
+* `Топ 11 вопросов по SQL на собеседованиях`: [http://penteil.com/article/top-11-voprosov-po-sql-na-sobesedovaniyakh](http://penteil.com/article/top-11-voprosov-po-sql-na-sobesedovaniyakh)
+* `Наш вариант теста на знание SQL`: [http://habrahabr.ru/post/181033/](http://habrahabr.ru/post/181033/)
+* `Собеседование SQL вопросы`: [http://www.quizful.net/interview/sql](http://www.quizful.net/interview/sql)
+* `Оптимизация SQL-запросов (Часть 1)` [http://ts-soft.ru/blog/sql-optimization-1](http://ts-soft.ru/blog/sql-optimization-1)
+
 #java hashmap key пример & сложные задачи с коллекциями в java 7
 * [http://www.ucccs.info/ucc/ucc2/ucc_folder/cs2500/exams/30%20Questions%20and%20Answers.pdf](http://www.ucccs.info/ucc/ucc2/ucc_folder/cs2500/exams/30%20Questions%20and%20Answers.pdf)
 * [http://voituk.kiev.ua/2008/03/14/java-interview-questions/](http://voituk.kiev.ua/2008/03/14/java-interview-questions/)
@@ -92,3 +104,7 @@
 * [http://www.javatpoint.com/corejava-interview-questions](http://www.javatpoint.com/corejava-interview-questions)
 * [http://www.javatpoint.com/inheritance-in-java](http://www.javatpoint.com/inheritance-in-java)
 * `Top 100 Java Interview Questions and Answers`: [http://www.slideshare.net/hirist/top-100-java-interview-questions-and-answers](http://www.slideshare.net/hirist/top-100-java-interview-questions-and-answers)
+
+
+* [http://www.javenue.info/post/89](http://www.javenue.info/post/89)
+* [http://ru.stackoverflow.com/questions/221671/java-sql-процедура](http://ru.stackoverflow.com/questions/221671/java-sql-процедура)
