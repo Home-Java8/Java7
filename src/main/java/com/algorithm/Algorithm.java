@@ -5,6 +5,8 @@ package main.java.com.algorithm;
  * {@link http://tproger.ru/translations/sorting-for-beginners/#more-8619}
  * *******************************************************
  * Алгоритмы и структуры данных для начинающих: сортировка
+ *
+ * {@link http://info.javarush.ru/translation/2014/03/20/10-самых-сложных-вопросов-на-собеседованиях-по-Java-.html}
  */
 public class Algorithm {
 
