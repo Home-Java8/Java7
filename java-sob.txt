@@ -486,6 +486,14 @@ byte -> short -> int -> long -> float -> double
 (JVM изнутри – организация памяти внутри процесса Java) http://habrahabr.ru/post/84165/
                                                         http://forum.sources.ru/index.php?showtopic=280746
 
+  (Операции над примитивными типами в Java) http://www.znannya.org/?view=Java_PrimitiveTypesOp
+                                            https://sohabr.net/habr/post/261315/?version=107602
+                                            http://www.quizful.net/interview/java/java-interview >> http://www.quizful.net/interview/java/Cz1jySBYuxgy >> http://ru.stackoverflow.com/questions/281650/Побитовые-операции-о-каких-из-них-полезно-знать-программистам-более-высоких >> http://ru.stackoverflow.com/questions/100851/Зачем-нужны-побитовые-операторы-и-что-они-фактически-делают-в-Си
+                                            ( http://www.realcoding.net/articles/glava-1-vstroennye-tipy-dannykh-operatsii-nad-nimi.html >> https://github.com/wapmorgan/java_for_beginners_book/blob/master/c2.md >> http://dark-barker.blogspot.com/2012/03/bit-operations-java-pitfalls.html )
+                             (Глава 4 Типы) http://www.helloworld.ru/texts/comp/lang/java/java/04.htm
+                       (Глава 5. Операторы) http://www.helloworld.ru/texts/comp/lang/java/java/05.htm
+(Глава 6. Управление выполнением программы) http://www.helloworld.ru/texts/comp/lang/java/java/06.htm
+                          (Глава 7. Классы) http://www.helloworld.ru/texts/comp/lang/java/java/07.htm
 (115 Java Interview Questions and Answers) http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#11
                                            https://github.com/snowdream/115-Java-Interview-Questions-and-Answers/tree/master/en
         (Interview Questions in Core Java) http://www.aucev.edu.in/placementcell/Materials/App3.pdf

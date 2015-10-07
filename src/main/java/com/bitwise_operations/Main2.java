@@ -5,9 +5,11 @@ package main.java.com.bitwise_operations;
  *
  * {@link http://www.znannya.org/?view=Java_PrimitiveTypesOp}
  * {@link https://sohabr.net/habr/post/261315/?version=107602}
+ * {@link http://tproger.ru/translations/10-tricky-core-java-interview-coding}
  * ***************************************
  * Операции над примитивными типами в Java
  * Примитивные типы в Java
+ * 10 интересных вопросов по Java, которые вам могут задать на собеседовании
  */
 public class Main2 {
 
@@ -61,6 +63,11 @@ public class Main2 {
 
         /* 10. Преобразование и приведение типов при выполнении операций: */
         func10();
+
+
+        for(int i=1;;i++){
+            System.out.println(i);
+        }
     }
 
     static void func1(){
