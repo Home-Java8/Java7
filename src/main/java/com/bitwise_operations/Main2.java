@@ -4,8 +4,10 @@ package main.java.com.bitwise_operations;
  * Created by alexandr on 07.10.15.
  *
  * {@link http://www.znannya.org/?view=Java_PrimitiveTypesOp}
+ * {@link https://sohabr.net/habr/post/261315/?version=107602}
  * ***************************************
  * Операции над примитивными типами в Java
+ * Примитивные типы в Java
  */
 public class Main2 {
 
@@ -42,7 +44,13 @@ public class Main2 {
         /* 6. Операции сравнения: */
         func6();
 
-        /* 7. Булевские операции: */
+        /*
+         * 7. Булевские операции:
+         * http://www.quizful.net/interview/java/java-interview
+         *
+         * http://ru.stackoverflow.com/questions/281650/Побитовые-операции-о-каких-из-них-полезно-знать-программистам-более-высоких
+         * http://ru.stackoverflow.com/questions/100851/Зачем-нужны-побитовые-операторы-и-что-они-фактически-делают-в-Си
+         */
         func7();
 
         /* 8. Условная операция: */
