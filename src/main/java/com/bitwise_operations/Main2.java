@@ -65,9 +65,9 @@ public class Main2 {
         func10();
 
 
-        for(int i=1;;i++){
-            System.out.println(i);
-        }
+//        for(int i=1;;i++){
+//            System.out.println(i);
+//        }
     }
 
     static void func1(){
