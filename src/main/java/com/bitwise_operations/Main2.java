@@ -75,7 +75,9 @@ public class Main2 {
         int y;
         int z;
 
-        x = 3; y = x; z = x; // z: 3  y: 3  x: 3
+        x = 3; // z: 3
+        y = x; // y: 3
+        z = x; // x: 3
 
 
         int x1;
