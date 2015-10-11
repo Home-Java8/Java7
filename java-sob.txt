@@ -486,6 +486,8 @@ byte -> short -> int -> long -> float -> double
 (JVM изнутри – организация памяти внутри процесса Java) http://habrahabr.ru/post/84165/
                                                         http://forum.sources.ru/index.php?showtopic=280746
 
+  (Java. Вопросы на собеседовании и ответы) http://wizardjava.com/java/java-voprosy-na-sobesedovanii-i-otvety-chast-1
+                                            http://wizardjava.com/java/java-voprosy-na-sobesedovanii-i-otvety-chast-2
   (Операции над примитивными типами в Java) http://www.znannya.org/?view=Java_PrimitiveTypesOp
                                             https://sohabr.net/habr/post/261315/?version=107602
                                             http://www.quizful.net/interview/java/java-interview >> http://www.quizful.net/interview/java/Cz1jySBYuxgy >> http://ru.stackoverflow.com/questions/281650/Побитовые-операции-о-каких-из-них-полезно-знать-программистам-более-высоких >> http://ru.stackoverflow.com/questions/100851/Зачем-нужны-побитовые-операторы-и-что-они-фактически-делают-в-Си
@@ -535,6 +537,7 @@ byte -> short -> int -> long -> float -> double
 (исходный код проека combiq.ru - поможет вам подготовиться к собеседованию на позицию Java разработчик) https://github.com/atott/combiq
                                                    (Список вопросов на собеседовании Java программиста) http://danilov-jee.blogspot.com/2013/10/java.html
 
+(GWT Interview questions ** 24 December 2010) http://snsankar.blogspot.com/
 =======================================================================================================================================================================================
 Стек и куча два разных способа организации памяти.
 И если тебе часто требуется переменная в конце стека, то оптимальнее тогда размещать переменные в куче, т.к. не надо постоянно дёргать указатель стека туда-сюда.
