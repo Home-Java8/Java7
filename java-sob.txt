@@ -488,6 +488,7 @@ byte -> short -> int -> long -> float -> double
 
   (Java. Вопросы на собеседовании и ответы) http://wizardjava.com/java/java-voprosy-na-sobesedovanii-i-otvety-chast-1
                                             http://wizardjava.com/java/java-voprosy-na-sobesedovanii-i-otvety-chast-2
+(Побитовые операции пременяются для быстрого выполнения вычислений и меньшего потребления ресурсов связанных с этими вычислениями) http://habrahabr.ru/post/187606/
   (Операции над примитивными типами в Java) http://www.znannya.org/?view=Java_PrimitiveTypesOp
                                             https://sohabr.net/habr/post/261315/?version=107602
                                             http://www.quizful.net/interview/java/java-interview >> http://www.quizful.net/interview/java/Cz1jySBYuxgy >> http://ru.stackoverflow.com/questions/281650/Побитовые-операции-о-каких-из-них-полезно-знать-программистам-более-высоких >> http://ru.stackoverflow.com/questions/100851/Зачем-нужны-побитовые-операторы-и-что-они-фактически-делают-в-Си
