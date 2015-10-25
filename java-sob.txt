@@ -529,7 +529,7 @@ byte -> short -> int -> long -> float -> double
 (Вопросы на собеседовании ** Базы данных) http://job-interview.ru/questions/database/
                                                     (Топ 11 вопросов по SQL на собеседованиях) http://penteil.com/article/top-11-voprosov-po-sql-na-sobesedovaniyakh
                                                              (Наш вариант теста на знание SQL) http://habrahabr.ru/post/181033/
-(Вопросы на собеседовании Java программиста. Разница между LEFT JOIN, RIGHT JOIN и INNER JOIN) http://danilov-jee.blogspot.ru/2013/01/java-left-join-right-join-inner-join.html
+(Вопросы на собеседовании Java программиста. Разница между LEFT JOIN, RIGHT JOIN и INNER JOIN) http://danilov-jee.blogspot.ru/2013/01/java-left-join-right-join-inner-join.html ( http://danilov-jee.blogspot.com/2013/01/java-left-join-right-join-inner-join.html )
 (Собеседование SQL вопросы) http://www.quizful.net/interview/sql?page=1
 
   (Java для белок ** Подготовка к собеседованию на java-программиста (уровень Junior)) http://j4sq.blogspot.com/2012/01/java-junior.html
